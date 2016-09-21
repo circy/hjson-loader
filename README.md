@@ -1,6 +1,9 @@
 # hjson-loader
 a webpack loader for http://hjson.org/ 
 
+Install: npm i @circy/hjson-loader
+
+
 MIT License
 
 Copyright (c) 2016 Sebastian Kreissl @circyde
