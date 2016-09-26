@@ -1,4 +1,4 @@
-User this one :D : https://github.com/garlictech/hjson-loader 
+Use this one :D : https://github.com/garlictech/hjson-loader 
 
 # hjson-loader
 a webpack loader for http://hjson.org/ 
